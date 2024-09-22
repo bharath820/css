@@ -1,0 +1,26 @@
+
+.outer{
+    text-align: center;
+}
+
+
+.container{
+    height: 640px;
+    width: 640px;
+    border: solid cornflowerblue;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.white-cell{
+    width: 80px;
+    height: 80px;
+    background-color: whitesmoke;
+}
+
+.black-cell{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+}

@@ -1,0 +1,202 @@
+*{
+    margin: 0px;
+}
+
+.ele1{
+    background-color: aqua;
+    background-image:url(https://tse1.mm.bing.net/th?id=OIP.8ceVhXkMPF5VrlOa5RonxwHaEH&pid=Api&P=0&h=180);
+width: 100%;
+height:100vh;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment:fixed;
+
+}
+
+.ele2{
+    background-color: brown;
+    background-image: url(https://th.bing.com/th/id/OIP.EulhF4lhI-4zkYnUZTr82AAAAA?rs=1&pid=ImgDetMain);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.ele3{
+    background-color:blueviolet;
+    background-image: url(https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele4{
+    background-color:white;
+    background-image: url(https://miro.medium.com/v2/resize:fit:1200/0*6c0myzTJcuOTi_vU.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele5{
+    background-color:white;
+    background-image: url(https://www.devstringx.com/wp-content/uploads/2022/12/Backend-Technologies.jpg);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele6{
+    background-color:white;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.dJToM1TiZiJA0GYwzDHwjQHaHY&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele7{
+    background-color:white;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.bDK7QP5XrVzaPTpQZA97wAHaEo&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ele8{
+    background-color:white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele9{
+    background-color:white;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.Tf4BFI6846neirVSebC0vAHaEi&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele10{
+    background-color:white;
+    background-image: url(https://developer.okta.com/assets-jekyll/blog/tutorial-kotlin-beginners-guide/kotlin-logo-social-21c8518b19eb96d96f35e0057bb92b7e1281a24820e0fa09e39c42f184bd7faa.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele11{
+    background-color:white;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.PMBiSa-JBIhSrPqckRRxyQHaEK&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele12{
+    background-color:white;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.T0a-QUNewZDsyx6BkinfewHaHa&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele13{
+    background-color:white;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.VFRsea1sLTKy4g-uLbZaiAHaEK&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ele14{
+    background-color:white;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.fByyZnA2MzQb6k_PmVi1gwHaJj&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele15{
+    background-color:white;
+    background-image: url(https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele16{
+    background-color:white;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.MFlSMTIb7VYhgQyepOZ9aQHaE8&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele17{
+    background-color:white;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.ogXjw1C_vZgNjiT3myLFHAHaD4&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele18{
+    background-color:white;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.igsTOJNvPT5roAeEEwUn7QAAAA&pid=Api&P=0&h=180);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele19{
+    background-color:white;
+    background-image: url(https://cdn.windowsreport.com/wp-content/uploads/2020/06/angular-logo-2.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ele20{
+    background-color:white;
+    background-image: url(https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png);
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
