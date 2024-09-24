@@ -1,3 +1,263 @@
-p{  
+*{
+  margin: 30px;
+  padding: 0px;
+  }
+
+
+.first{  
   text-align: center;
+  border: 3px solid black;
+  padding: 2px;
+  border-color: darkgreen;
+  background-color:blanchedalmond;
+  box-shadow: 0px 0px 15px 5px;
+}
+
+.container1{
+  background-color: whitesmoke;
+}
+
+.ele1,.ele2,.ele3,.ele4,.ele5,.ele6{
+  display: flex;
+}
+
+.ele1,.ele2,.ele3,.ele4,.ele5,.ele6{
+  font-style: normal;
+  box-shadow: 0px 0px 15px 5px burlywood;
+}
+
+.ele2{
+  font-style: italic;
+}
+
+.ele3{
+  font-style: oblique;
+}
+.ele4{
+  font-style:initial ;
+}
+.ele5{
+  font-style: unset;
+}
+.ele6{
+  font-style: inherit;
+}
+
+.ele1 #item1{
+  width: 200px;
+  height: 200px;
+  background: palevioletred;
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px cyan;
+
+}
+
+.ele1 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(152, 205, 221);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px cyan;
+}
+
+.ele1 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(105, 54, 71);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px cyan;
+}
+
+.ele1 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(240, 237, 140);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px cyan;
+}
+
+
+.ele2 #item1{
+  width: 200px;
+  height: 200px;
+  background: rgb(19, 57, 70);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(218, 81, 163);
+}
+
+.ele2 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(222, 71, 217);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(218, 81, 163);
+}
+
+.ele2 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(4, 135, 113);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(218, 81, 163);
+}
+
+.ele2 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(73, 55, 61);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(218, 81, 163);
+}
+
+.ele3 #item1{
+  width: 200px;
+  height: 200px;
+  background: rgb(151, 144, 65);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(151, 187, 59);
+}
+
+.ele3 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(41, 127, 88);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(151, 187, 59);
+}
+
+.ele3 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(88, 6, 175);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(151, 187, 59);
+}
+
+.ele3 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(155, 37, 176);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(151, 187, 59);
+}
+
+.ele4 #item1{
+  width: 200px;
+  height: 200px;
+  background: rgb(170, 217, 219);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(109, 37, 37);
+
+}
+
+.ele4 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(135, 5, 48);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(109, 37, 37);
+
+}
+.ele4 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(169, 125, 12);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(109, 37, 37);
+}
+
+.ele4 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(16, 140, 138);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(109, 37, 37);
+}
+
+.ele5 #item1{
+  width: 200px;
+  height: 200px;
+  background: rgb(75, 75, 216);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(176, 72, 228);
+}
+
+.ele5 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(239, 87, 204);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(176, 72, 228);
+}
+
+.ele5 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(127, 121, 6);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(176, 72, 228);
+}
+
+.ele5 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(235, 70, 28);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(176, 72, 228);
+}
+
+.ele6 #item1{
+  width: 200px;
+  height: 200px;
+  background: rgb(15, 130, 109);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(55, 179, 232);
+}
+
+.ele6 #item2{
+  width: 200px;
+  height: 200px;
+  background: rgb(65, 183, 11);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(55, 179, 232);
+}
+
+.ele6 #item3{
+  width: 200px;
+  height: 200px;
+  background: rgb(100, 32, 169);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(55, 179, 232);
+}
+
+.ele6 #item4{
+  width: 200px;
+  height: 200px;
+  background: rgb(94, 109, 79);
+  text-align: center;
+  border: 3px solid black;
+  box-shadow: 0px 0px 15px 5px rgb(55, 179, 232);
 }
