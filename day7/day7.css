@@ -1,0 +1,29 @@
+.box{
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px 0px  black;
+}
+
+.boxa{
+    display: flex;
+   
+}
+
+img{
+    width: 100px;
+}
+
+.boxc{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.boxb{
+  
+}
+
+.parent{
+    display: flex;
+}
+
