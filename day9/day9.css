@@ -3,7 +3,9 @@
     padding: 0;
 }
 
-
+a{
+    text-decoration: none;
+}
 
 .ele1{
     display: grid;
@@ -172,7 +174,7 @@ margin: 50px;
 }
 .tag2 {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto;
     gap: 1rem;
 }
 .tagsp {
@@ -200,4 +202,32 @@ margin: 50px;
 
 .ele2,.just{
     justify-content: center;
+}
+
+
+@media screen and (width<576px) {
+    .ele1  {
+        grid-template-columns: auto;
+        row-gap: 1%;
+        margin-bottom: 20%;
+        
+    }
+    .ele2 {
+        grid-template-columns: auto;
+        row-gap: 1%;
+        margin-bottom: 20%;
+    }
+
+    .just{
+        font-size: 1.3rem;
+        text-align: center;
+    }
+  h3{
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .footer{
+    grid-template-columns: auto;
+  }
 }
