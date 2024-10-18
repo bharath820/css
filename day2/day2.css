@@ -1,0 +1,132 @@
+*{
+    margin: 30px;
+    padding: 0px;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.ele1,.ele2,.ele3,.ele4,.ele6,.ele7,.ele8,.ele9,.ele10,.ele5,.ele11,.ele12{
+    display: flex;
+}
+
+.container1{
+    margin:20px 20px 20px 20px;
+    padding: 20px;
+    
+}
+
+#item1{
+    background-color:pink;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
+
+#item2{
+    background-color:beige;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+#item3{
+    background-color:aqua ;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+#item4{
+    background-color: chocolate;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+#item5{
+    background-color: bisque;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+#item6{
+    background-color: darkcyan;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+#item7{
+    background-color: burlywood;
+    text-align: center;
+    height: 200px;
+    width: 800px;
+    margin: 20px;
+}
+
+#item8{
+    background-color:plum;
+    text-align: center;
+    height: 200px;
+    width: 800px; 
+    margin: 20px; 
+}
+
+
+.ele6 #item1{
+    background: aquamarine;
+}
+.ele6 #item2{
+    background: rgb(91, 74, 8);
+}
+.ele6 #item3{
+    background: darkslateblue;
+}
+.ele6 #item4{
+    background:ghostwhite;
+}
+
+.ele7 #item1{
+    background: rosybrown;
+}
+
+.ele7 #item2{
+    background: rgb(136, 183, 233);
+}
+
+.ele7 #item3{
+    background:wheat;
+}
+
+.ele7 #item4{
+background: orchid;
+}
+
+.ele8 #item1{
+    background:azure;
+}
+
+.ele8 #item2{
+    background: mediumturquoise;
+}
+.ele8 #item3{
+    background: cornsilk;
+}
+
+.ele8 #item4{
+    background: slategray;
+}
+.ele10 #item1{
+    background: khaki;
+}
+.ele10 #item2{
+    background:ivory;
+}
+.ele10 #item3{
+    background:lemonchiffon;
+}
+.ele10 #item4{
+    background: rgb(50, 70, 77);
+}
